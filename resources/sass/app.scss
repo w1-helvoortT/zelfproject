@@ -1,0 +1,30 @@
+//
+.main{
+    text-align: center;
+}
+body{
+    background-color: orange;
+}
+li{
+    color: #ffffff;
+}
+li + li{
+    color: #a9a9a9;
+}
+li+li+li{
+    color: #808080;
+}
+li+li+li+li{
+    color: #636b6f;
+}
+li+li+li+li+li{
+    color: #000000;
+}
+div{
+    display: inline-block;
+    border: solid 4px;
+    border-collapse: collapse;
+}
+
+
+
